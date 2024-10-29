@@ -1,9 +1,3 @@
-# Code Blocks in Markdown
+# Econometrics Assignment
 
-## Inline Code
-Use backticks for `inline code`.
-
-```python
-# Python code block
-def hello():
-    print("Hello, World!")
+To be uploaded ... 
